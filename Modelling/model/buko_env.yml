@@ -1,0 +1,14 @@
+name: buko_infra
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9*
+  - jupyter
+  - pandas
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - tqdm

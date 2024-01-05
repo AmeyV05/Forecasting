@@ -1,0 +1,72 @@
+                       ExponentialSmoothing Model Results                       
+================================================================================
+Dep. Variable:             Net_week_art   No. Observations:                  262
+Model:             ExponentialSmoothing   SSE                          16781.438
+Optimized:                         True   AIC                           1203.837
+Trend:                   Multiplicative   BIC                           1407.233
+Seasonal:                      Additive   AICC                          1238.887
+Seasonal Periods:                    52   Date:                 Wed, 21 Dec 2022
+Box-Cox:                          False   Time:                         09:34:55
+Box-Cox Coeff.:                    None                                         
+=================================================================================
+                          coeff                 code              optimized      
+---------------------------------------------------------------------------------
+smoothing_level               0.8937666                alpha                 True
+smoothing_trend              1.6275e-05                 beta                 True
+smoothing_seasonal           3.1717e-07                gamma                 True
+initial_level                 75.103671                  l.0                 True
+initial_trend                 1.0058371                  b.0                 True
+damping_trend                 0.9949823                  phi                 True
+initial_seasons.0            -6.7938159                  s.0                 True
+initial_seasons.1            -20.997602                  s.1                 True
+initial_seasons.2            -35.346717                  s.2                 True
+initial_seasons.3            -23.861218                  s.3                 True
+initial_seasons.4            -19.568917                  s.4                 True
+initial_seasons.5            -18.281772                  s.5                 True
+initial_seasons.6            -17.996997                  s.6                 True
+initial_seasons.7            -22.303929                  s.7                 True
+initial_seasons.8            -21.610042                  s.8                 True
+initial_seasons.9            -21.110265                  s.9                 True
+initial_seasons.10           -19.611288                 s.10                 True
+initial_seasons.11           -21.499792                 s.11                 True
+initial_seasons.12           -12.386609                 s.12                 True
+initial_seasons.13           -2.2792319                 s.13                 True
+initial_seasons.14            1.6208262                 s.14                 True
+initial_seasons.15            0.9229877                 s.15                 True
+initial_seasons.16            12.434711                 s.16                 True
+initial_seasons.17            9.1444883                 s.17                 True
+initial_seasons.18            2.4517704                 s.18                 True
+initial_seasons.19            4.3580181                 s.19                 True
+initial_seasons.20            0.6823930                 s.20                 True
+initial_seasons.21            2.8041068                 s.21                 True
+initial_seasons.22            3.7291630                 s.22                 True
+initial_seasons.23            5.6636227                 s.23                 True
+initial_seasons.24           -0.0058957                 s.24                 True
+initial_seasons.25            5.3198469                 s.25                 True
+initial_seasons.26            4.8490300                 s.26                 True
+initial_seasons.27            13.771384                 s.27                 True
+initial_seasons.28            17.693213                 s.28                 True
+initial_seasons.29            11.023224                 s.29                 True
+initial_seasons.30            3.7551816                 s.30                 True
+initial_seasons.31           -5.9153493                 s.31                 True
+initial_seasons.32           -9.5773877                 s.32                 True
+initial_seasons.33           -12.437237                 s.33                 True
+initial_seasons.34           -8.2944359                 s.34                 True
+initial_seasons.35            0.8392399                 s.35                 True
+initial_seasons.36            8.3868033                 s.36                 True
+initial_seasons.37            11.330107                 s.37                 True
+initial_seasons.38            17.070529                 s.38                 True
+initial_seasons.39            29.614684                 s.39                 True
+initial_seasons.40            33.756255                 s.40                 True
+initial_seasons.41            26.903638                 s.41                 True
+initial_seasons.42            24.648441                 s.42                 True
+initial_seasons.43            24.794321                 s.43                 True
+initial_seasons.44            21.344824                 s.44                 True
+initial_seasons.45            12.701491                 s.45                 True
+initial_seasons.46            6.2678009                 s.46                 True
+initial_seasons.47            10.630816                 s.47                 True
+initial_seasons.48            10.792556                 s.48                 True
+initial_seasons.49            3.5683385                 s.49                 True
+initial_seasons.50            3.5328723                 s.50                 True
+initial_seasons.51            0.9025189                 s.51                 True
+---------------------------------------------------------------------------------
